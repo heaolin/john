@@ -1,0 +1,8 @@
+{
+  "name": "db-admin",
+  "version": "1.0.0",
+  "private": true,
+  "description": "简易 PostgreSQL 网页管理界面",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "pg": "^8.13.0" }
+}
